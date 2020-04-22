@@ -14,10 +14,13 @@ import pic06 from '../assets/images/pic06.jpg'
 class HomeIndex extends React.Component {
   render() {
 
+
+
+
     return (
       <Layout>
         <Helmet
-          title="Gatsby Starter - Forty"
+          title="Micah Zaayer"
           meta={[
             { name: 'description', content: 'Sample' },
             { name: 'keywords', content: 'sample, something' },
