@@ -50,7 +50,7 @@ const services = (props) => (
           <div className="content">
             <div className="inner">
               <header className="major">
-                <h3>React Mobile First Webpage</h3>
+                <h3>Custom Website & Design</h3>
               </header>
               <p>For more substantial websites, I prefer to use React to develop a mobile first app for all your needs.</p>
               <ul className="actions">
