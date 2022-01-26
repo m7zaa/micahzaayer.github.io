@@ -20,7 +20,7 @@ class HomeIndex extends React.Component {
     return (
       <Layout>
         <Helmet
-          title="Micah Zaayer"
+          title="Welcome"
           meta={[
             { name: 'description', content: 'Sample' },
             { name: 'keywords', content: 'sample, something' },
